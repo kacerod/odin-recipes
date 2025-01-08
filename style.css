@@ -48,6 +48,7 @@
     font-size: 12px;
     font-weight: normal;
     font-family: Verdana, 'Times New Roman', serif;
+    margin-bottom: 100px;
 }
 
 .description {
@@ -56,3 +57,16 @@
     font-family: Verdana, 'Times New Roman', serif;
     margin-left: 20px;
 }
+
+.footer {
+    position: fixed;
+    font-weight: bold;
+    font-family: Verdana, 'Times New Roman', serif;
+    left:0px;
+    bottom:0px;
+    height:20px;
+    width:100%;
+    padding-top: 20px;
+    text-align: center;
+    background-color:#9F96A9;
+ }
